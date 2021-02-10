@@ -1,0 +1,21 @@
+$ javac cscie55/hw7/*.java
+$ java -ea -cp . cscie55.hw7.LinkAnalyzerImpl
+Naming rebind.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

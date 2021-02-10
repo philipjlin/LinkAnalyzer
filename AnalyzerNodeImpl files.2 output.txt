@@ -1,0 +1,21 @@
+$ java -ea -cp . cscie55.hw7.LinkAnalyzerNodeImpl ./files.2
+Folder to analyze: ./files.2
+Reading file: ./files.2/2009-11-16.json
+Exception Parsing Line.
+Reading file: ./files.2/2009-11-17.json
+Reading file: ./files.2/2009-11-18.json
+Reading file: ./files.2/2009-11-19.json
+Reading file: ./files.2/2009-11-20.json
+Reading file: ./files.2/2009-11-21.json
+Reading file: ./files.2/2009-11-22.json
+Reading file: ./files.2/2009-11-23.json
+Reading file: ./files.2/2009-11-24.json
+Reading file: ./files.2/2009-11-25.json
+Reading file: ./files.2/2009-11-26.json
+Reading file: ./files.2/2009-11-27.json
+Reading file: ./files.2/2009-11-28.json
+Reading file: ./files.2/2009-11-29.json
+Reading file: ./files.2/2009-11-30.json
+New LinkAnalyzerNode Created, Folder analyzed.
+Naming Lookup>
+Node Registered.

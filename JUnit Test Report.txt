@@ -1,0 +1,13 @@
+HW7 JUnit Test Report
+Philip Lin
+
+JUnit Tests:
+
+[passed] cscie55.hw7.Tester [Runner: JUnit 4] (0.033s s)
+			
+			[passed] testLinksByTags (0.004 s)
+			[passed] testLinksByTime (0.014 s)
+			[passed] testLinksByURL (0.015 s)
+
+
+All JUnit tests passed after running the Tester in the IDE after starting the RMI registry, LinkAnalyzer, and two LinkAnalyzerNodes with different folders containing .json files.
